@@ -1,0 +1,13 @@
+@font-face {
+	font-family: "Noto Sans";
+	src: url(/fonts/NotoSansJP-ExtraLight.ttf);
+}
+
+@font-face {
+	font-family: "Roboto";
+	src: url(/fonts/Roboto-Medium.ttf);
+}
+
+* {
+	font-family: "Roboto", "Noto Sans";
+}
